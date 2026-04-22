@@ -71,7 +71,3 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/aryan-soni-270692118)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aryansoniw@gmail.com)
-
----
-
-💼 **Open to Senior Backend Engineer, Go Developer, and Blockchain Engineer roles — Remote**
