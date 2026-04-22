@@ -1,16 +1,41 @@
-## Hi there 👋
+# Hey, I'm Aryan 👋
 
-<!--
-**aryan249/aryan249** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Backend Engineer · Go · TypeScript · Distributed Systems**
 
-Here are some ideas to get you started:
+4+ years building high-throughput backend services, APIs, and distributed infrastructure.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 What I Do
+
+- **Backend Services** — REST APIs, gRPC microservices, WebSocket systems in Go and TypeScript
+- **High Concurrency** — Goroutines, channels, semaphores handling thousands of concurrent requests
+- **Distributed Systems** — Message queues, event streaming, consensus systems, P2P networking
+- **Infrastructure** — Kubernetes, AWS ECS/EKS, Terraform, ArgoCD, GitHub Actions CI/CD
+
+## 🛠 Tech Stack
+
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
+![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat&logo=apachekafka&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat&logo=terraform&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat&logo=prometheus&logoColor=white)
+
+## 📌 Projects
+
+- [gossip-protocol](https://github.com/aryan249/gossip-protocol) — P2P message tracker in Go · libp2p · DHT · PostgreSQL · 89% test coverage
+- [solana-cluster](https://github.com/aryan249/solana-cluster) — Production cluster on AWS · Go stress-test CLI · 168 TPS · Terraform · Ansible
+- [token-analytics](https://github.com/aryan249/token-analytics) — Real-time analytics backend · TypeScript · Redis Streams · WebSocket · Fastify
+- [relayer-helm-charts](https://github.com/aryan249/relayer-helm-charts) — Helm charts for Kubernetes relayer deployments
+
+## 📫 Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/aryan-soni-270692118)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aryan.soni249@gmail.com)
+
+---
+
+💼 **Open to Senior Backend Engineer & Go Developer roles — Remote**
