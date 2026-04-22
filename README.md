@@ -29,17 +29,15 @@
 
 ### ☁️ Infrastructure & DevOps
 - **Kubernetes** — Helm, ArgoCD GitOps, Pod Disruption Budgets for availability
-- **AWS** — ECS, EKS, S3, EC2 provisioned via Terraform
+- **AWS** — ECS, EKS, S3, EC2 
 - **GitHub Actions** CI/CD pipelines — build, test, deploy to production
 - **Prometheus + Grafana** for metrics, alerting, and availability monitoring
 - **Sentry** for error tracking and latency monitoring
 
 ### 🔗 Blockchain & Web3 Backend
 - Built backend services for a full **perpetual futures DEX** — order matching, settlement, collateral management
-- Designed **Solidity smart contracts** — Vault, CollateralManager, MatchingEngine
-- Integrated **Chainlink + Pyth** oracles with automatic fallback and staleness guards
-- **EigenLayer AVS** integration for trustless validator onboarding
-- **L2 rollup infrastructure** — OP Stack, Tendermint BFT consensus, P2P relayer networks
+- Designed **Solidity smart contracts** 
+
 
 ---
 
